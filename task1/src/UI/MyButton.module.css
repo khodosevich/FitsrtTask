@@ -1,0 +1,12 @@
+.myBtn{
+    padding: 10px 35px;
+    background: #e78787;
+    border: 2px solid black;
+    border-radius: 2px;
+
+}
+
+.myBtn:hover{
+    background: #8383f1;
+    transition: 0.3s;
+}

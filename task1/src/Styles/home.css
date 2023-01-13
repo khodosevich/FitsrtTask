@@ -1,0 +1,35 @@
+.home-page{
+
+    background-color: #8bd0ee;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+
+
+}
+
+.home-content{
+    display: flex;
+    flex-direction: column;
+    min-height: 750px;
+    padding-top: 100px;
+}
+
+.home-title{
+    font-family: Arial;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.container-text{
+
+
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 15px 35px;
+
+
+}

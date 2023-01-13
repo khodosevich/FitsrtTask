@@ -1,0 +1,34 @@
+.news-page{
+
+    background-color: rgba(157, 135, 229, 0.67);
+    padding-top: 50px;
+}
+
+
+.container-news{
+    width: 1200px;
+    margin: 0 auto;
+    height: 900px;
+
+}
+
+.content{}
+
+.title-home{
+    font-family: Arial;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+
+.posts__item{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+
+
+
+

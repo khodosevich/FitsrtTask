@@ -1,0 +1,42 @@
+
+.navbar{
+    background-color: #8383f1;
+}
+
+.container{
+    padding: 0 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.menu{
+    display: flex;
+    padding: 35px 30px;
+    font-family: Arial;
+    font-size: 18px;
+    gap: 50px;
+    text-decoration: none;
+    list-style-type: none;
+    justify-content: end;
+    color: #000000;
+
+}
+
+.link-nav{
+    font-size: 20px;
+    color: #000000;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.logo-nav{
+    font-family: Arial;
+    font-size: 45px;
+    color: #000000;
+}
+

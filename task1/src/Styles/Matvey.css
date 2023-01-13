@@ -1,0 +1,9 @@
+.matvey-title{
+    background: #f8aeae;
+    font-family: Arial;
+    height: 845px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

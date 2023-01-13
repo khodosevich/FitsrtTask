@@ -1,0 +1,38 @@
+.login-page{
+    background-color: lavenderblush;
+    font-family: "Arial";
+}
+.container-login{
+    width: 1200px;
+    margin: 0 auto;
+    height: 900px;
+}
+.content-login{
+
+}
+.title-login{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.sign-up{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.sign-up-text{
+    font-size: 20px;
+    padding: 10px 0;
+}
+
+.input-sign-up{
+    width: 200px;
+
+}
+
+
+.btn{
+    margin-top: 30px;
+    text-align: center;
+}
