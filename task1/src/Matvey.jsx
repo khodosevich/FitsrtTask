@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Styles/Matvey.css'
+import './Styles/Matvey.scss'
 
 const Matvey = () => {
     return (

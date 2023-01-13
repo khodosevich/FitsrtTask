@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 
 import Post from "./Components/Post";
-import './Styles/News.css'
+import './Styles/News.scss'
 
 const News = () => {
 

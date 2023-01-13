@@ -1,5 +1,5 @@
 import React from 'react';
-import './Styles/profile.css'
+import './Styles/profile.scss'
 import ProfileInfo from "./Components/ProfileInfo";
 
 

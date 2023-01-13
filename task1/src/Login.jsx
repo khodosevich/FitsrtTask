@@ -1,5 +1,5 @@
 import React from 'react';
-import './Styles/login.css'
+import './Styles/logins.scss'
 import SingUpForm from "./Components/SingUpForm";
 
 const Login = () => {
